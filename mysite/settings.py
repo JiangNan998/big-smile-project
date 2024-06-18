@@ -85,7 +85,7 @@ DATABASES = {
         'NAME': 'bigsmile',
         'USER': 'root',
         'PASSWORD': 'admin12345',
-        'HOST': '127.0.0.1',
+        'HOST': '18.140.62.169',
         'POST': '3306'
     }
 }
